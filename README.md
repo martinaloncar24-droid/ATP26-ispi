@@ -154,7 +154,7 @@ console.log(greetUser("Martina"));
 
 
 ## Link na youtube video
-[![UX video](<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/a5acb139-317f-4654-9305-fe19daff61c5" />)](https://youtu.be/9bKzDy3j82I)
+[![UX video](https://github.com/martinaloncar24-droid/ATP26-ispi/blob/main/videoframe_17391.png)](https://youtu.be/9bKzDy3j82I)
 😃
 
 > [!NOTE]
