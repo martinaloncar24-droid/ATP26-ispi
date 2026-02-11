@@ -45,7 +45,7 @@ Usability is the extent to which a product can be used by specified users to ach
 
 Usability is attached to all tools used by humans and is extended to both digital and non-digital devices. Thus, it is a subset of user experience but not wholly contained. The section of usability that intersects with user experience design is related to humans' ability to use a system or application. Good usability is essential to positive user experience but does not alone guarantee it.[17]
 ![UX primjer 1](https://github.com/martinaloncar24-droid/ATP26-ispi/blob/main/pexels-rubaitulazad-15837913.jpg)
-Izvori slika: Pexels [(linkovi na konkretne slike](https://images.pexels.com/photos/15837913/pexels-photo-15837913.jpeg))
+Izvori slika: Pexels [(link na sliku](https://images.pexels.com/photos/15837913/pexels-photo-15837913.jpeg))
 
 
 Accessibility
@@ -106,6 +106,9 @@ In a similar manner, coupling TPC with UX design allows technical communicators 
 UX writers maintain the practices of technical communicators, by developing documentation that establishes consistency in terminology and tone, promoting a cohesive user experience. However, beyond the writing, UX writers maintain UI text by ensuring that microscopy, such as button labels, error messages, and tooltips, remains user-friendly, as well. In doing this, the writers are also tasked with ensuring accessibility—considering issues like screen reader compatibility or providing non-text elements, such as icons. UX writers conduct extensive research to understand the behaviors and preferences of the target audience through user testing and feedback analysis. These methods of research can include user persona creation and user surveys. Lastly, when setting the tone in a product's communication, UX writers highlight factors that affect user engagement and perception. In short, the writers consider the product's emotional impact on the users, and align the tone with brand's personality.[35][36]
 
 Within the field of UX design, UX writers bridge the gaps between various fields to create a cohesive and user-centric experience. Their expertise in language and communication work to unify design, development, and user research teams by ensuring that the user interface's content aligns with the broader objectives of the product or service. By focusing on clarity, consistency, and empathy, UX writers contribute to the integration of design elements, technical functionality, and user preferences, while following a design process to ensure products with intuitive, accessible, and responsive behavior to user needs.[37]
+
+![UX primjer 2]([images/ux2.jpg](https://github.com/martinaloncar24-droid/ATP26-ispi/blob/main/pexels-rubaitulazad-16642974.jpg))
+Izvori slika: Pexels ([link na sliku](https://images.pexels.com/photos/16642974/pexels-photo-16642974.jpeg))
 
 User interface designers
 User interface (UI) design is the process of making interfaces in software or computerized devices with a focus on looks or style. Designers aim to create designs users will find easy to use and pleasurable. UI design typically refers to graphical user interfaces but also includes others, such as voice-controlled ones.[38]
