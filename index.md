@@ -1,7 +1,8 @@
-# Dobrodošli
+# ATP26 Ispit
 
-Ovo je GitHub Pages stranica za projekt **ATP26 Ispit**.
+Dobrodošli na GitHub Pages stranicu projekta.
 
-- Pogledaj dokumentaciju u [README](README.md)
-- [LICENSE](LICENSE.md)
-- [CHANGELOG](CHANGELOG.md)
+## Dokumentacija
+Pogledajte README.md za detalje o UX dizajnu.
+
+[Otvori README](README.md)
