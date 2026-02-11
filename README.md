@@ -149,3 +149,5 @@ console.log(greetUser("Martina"));
 ### Citat
 > “Dobar UX je kad korisnik ne mora razmišljati kako nešto radi.”
 
+- [LICENSE](LICENSE.md)
+- [CHANGELOG](CHANGELOG.md)
