@@ -49,8 +49,8 @@ Izvori slika: Pexels [(link na sliku](https://images.pexels.com/photos/15837913/
 
 
 Accessibility
-Main article: Accessibility
-Accessibility of a system describes its ease of reach, use, and understanding. In terms of user experience design, it can also be related to the overall comprehensibility of the information and features. It helps shorten the learning curve associated with the system. Accessibility in many contexts can be related to the ease of use for people with disabilities and comes under usability.[18] In addition, accessible design is the concept of services, products, or facilities in which designers should accommodate and consider for the needs of people with disabilities. The Web Content Accessibility Guidelines (WCAG) state that all content must adhere to the four main principles of POUR: Perceivable, Operable, Understandable, and Robust.[19]
+- Main article: Accessibility
+- Accessibility of a system describes its ease of reach, use, and understanding. In terms of user experience design, it can also be related to the overall comprehensibility of the information and features. It helps shorten the learning curve associated with the system. Accessibility in many contexts can be related to the ease of use for people with disabilities and comes under usability.[18] In addition, accessible design is the concept of services, products, or facilities in which designers should accommodate and consider for the needs of people with disabilities. The Web Content Accessibility Guidelines (WCAG) state that all content must adhere to the four main principles of POUR: Perceivable, Operable, Understandable, and Robust.[19]
 
 WCAG compliance
 Main article: Web Content Accessibility Guidelines
@@ -79,15 +79,15 @@ UX designers perform a number of different tasks and, therefore, use a range of 
 The deliverables that UX designers will produce as part of their job include wireframes, prototypes, user flow diagrams, specification and tech docs, websites and applications, mockups, presentations, personas, user profiles, videos, and, to a lesser degree, reports.[28] Documenting design decisions, in the form of annotated wireframes, gives the developer the necessary information they may need to successfully code the project.[29]
 
 After launching a project
-Requires:
 
-User testing/usability testing
-A/B testing
-Information architecture
-Sitemaps and user flows
-Additional wireframing as a result of test results and fine-tuning[30]
-Pixel perfect
-Pixel Perfect, or pixel-perfect precision, is a term used in web development to describe that a digital product appears accurately as intended by the user interface or user experience designer.[31]
+Requires:
+1. User testing/usability testing
+2. A/B testing
+3. Information architecture
+4. Sitemaps and user flows
+5. Additional wireframing as a result of test results and fine-tuning[30]
+6. Pixel perfect
+7. Pixel Perfect, or pixel-perfect precision, is a term used in web development to describe that a digital product appears accurately as intended by the user interface or user experience designer.[31]
 
 # The process of user experience design
 
@@ -133,4 +133,19 @@ While designers conduct tests, they are not testing for the user but for the des
 Usability tests play an important role in the delivery of a cohesive final product; however, a variety of factors influence the testing process. Evaluating qualitative and quantitative methods provides an adequate picture of UX designs, and one of these quantitative methods is A/B testing (see Usability testing). Another key concept in the efficacy of UX design testing is the idea of a persona or the representation of the most common user of a certain website or program, and how these personas would interact with the design in question.[42] At the core of UX design usability testing is the user; however, steps in automating design testing have been made, with Micron developing the Advanced Test Environment (ATE), which automates UX tests on Android-powered smartphones. While quantitative software tools that collect actionable data, such as loggers and mobile agents, provide insight into a user's experience, the qualitative responses that arise from live, user based UX design testing are lost. The ATE serves to simulate a devices movement that affects design orientation and sensor operation in order to estimate the actual experience of the user based on previously collected user testing data.
 
 **Izvor:** Wikipedia – User experience design (https://en.wikipedia.org/wiki/User_experience_design#)
+
+## Kodni blok
+function greetUser(Martina) {
+  return `Dobrodošao, ${Martina}!`;
+}
+
+console.log(greetUser("Martina"));
+
+## Tablica
+| Naziv projekta | Verzija | Autor | Datum | Tehnologije |
+|---|---|---|---|---|
+| ATP26 Ispit | 1.0 | Martina | 2026-02-11 | Markdown, GitHub Pages |
+
+### Citat
+> “Dobar UX je kad korisnik ne mora razmišljati kako nešto radi.”
 
