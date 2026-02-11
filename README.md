@@ -44,7 +44,9 @@ Main article: Usability
 Usability is the extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use.[16]
 
 Usability is attached to all tools used by humans and is extended to both digital and non-digital devices. Thus, it is a subset of user experience but not wholly contained. The section of usability that intersects with user experience design is related to humans' ability to use a system or application. Good usability is essential to positive user experience but does not alone guarantee it.[17]
-![UX primjer 1](images/ux1.jpg)
+![UX primjer 1](https://github.com/martinaloncar24-droid/ATP26-ispi/blob/main/pexels-rubaitulazad-15837913.jpg)
+Izvori slika: Pexels [(linkovi na konkretne slike](https://images.pexels.com/photos/15837913/pexels-photo-15837913.jpeg))
+
 
 Accessibility
 Main article: Accessibility
