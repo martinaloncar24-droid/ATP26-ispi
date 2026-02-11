@@ -13,8 +13,8 @@ User experience design is a conceptual design discipline rooted in human factors
 I invented the term because I thought human interface and usability were too narrow. I wanted to cover all aspects of the person's experience with the system including industrial design graphics, the interface, the physical interaction and the manual. Since then the term has spread widely, so much so that it is starting to lose its meaning.
 
 — Donald Norman[6]
-Elements
-Research
+- Elements
+- Research
 Main article: User research
 User experience design draws from design approaches like human-computer interaction and user-centered design, and includes elements from similar disciplines like interaction design, visual design, information architecture, user research, and others.
 
