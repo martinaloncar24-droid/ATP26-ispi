@@ -107,7 +107,7 @@ UX writers maintain the practices of technical communicators, by developing docu
 
 Within the field of UX design, UX writers bridge the gaps between various fields to create a cohesive and user-centric experience. Their expertise in language and communication work to unify design, development, and user research teams by ensuring that the user interface's content aligns with the broader objectives of the product or service. By focusing on clarity, consistency, and empathy, UX writers contribute to the integration of design elements, technical functionality, and user preferences, while following a design process to ensure products with intuitive, accessible, and responsive behavior to user needs.[37]
 
-![UX primjer 2]([images/ux2.jpg](https://github.com/martinaloncar24-droid/ATP26-ispi/blob/main/pexels-rubaitulazad-16642974.jpg))
+![UX primjer 2](https://github.com/martinaloncar24-droid/ATP26-ispi/blob/main/pexels-rubaitulazad-16642974.jpg)
 Izvori slika: Pexels ([link na sliku](https://images.pexels.com/photos/16642974/pexels-photo-16642974.jpeg))
 
 User interface designers
